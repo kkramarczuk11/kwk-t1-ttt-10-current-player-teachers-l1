@@ -1,5 +1,5 @@
 def turn_count(board)
 end
 
-def return(board)
+def current_player(board)
 end
